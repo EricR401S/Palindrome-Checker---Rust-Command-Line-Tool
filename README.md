@@ -3,7 +3,7 @@
 ## Description
 In this project, we build a rust command line tool to reverse a string and check if it is a palindrome, a word whose reverse form is identical to the original. I also add a unit test to check if the function is performing as expected.
 
-[Click Here for this Project's Overview Demo Video!!!]()
+[Click Here for this Project's Overview Demo Video!!!](https://www.youtube.com/watch?v=TZC_sgEQqCc)
 
 ## Why opt for a palindrome checker?
 
