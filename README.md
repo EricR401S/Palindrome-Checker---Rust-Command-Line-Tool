@@ -79,7 +79,9 @@ fn is_palindrome(s: &str) -> bool {
 $ cargo run check-palindrome --text "racecar" 
 $ ./target/debug/palindrome check-palindrome --text body
 ```
+Cargo Run: 
 ![alt text](images/image.png)
+Binary:
 ![alt text](images/image-2.png)
 
 4. Add the unit test with the assert statements.
