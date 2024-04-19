@@ -74,12 +74,13 @@ fn is_palindrome(s: &str) -> bool {
 }
 ```
 
-3. Run the tool with both the binary and cargo run directly.
+3. Run the tool with cargo run directly. You can also do it with the binary.
 ```
-$ ./target/debug/palindrome check-palindrome --text "racecar" 
 $ cargo run check-palindrome --text "racecar" 
+$ ./target/debug/palindrome check-palindrome --text body
 ```
 ![alt text](images/image.png)
+![alt text](images/image-2.png)
 
 4. Add the unit test with the assert statements.
 ```
