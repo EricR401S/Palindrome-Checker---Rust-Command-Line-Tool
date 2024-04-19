@@ -1,5 +1,5 @@
 [package]
-name = "palindromemp8"
+name = "palindrome"
 version = "0.1.0"
 edition = "2021"
 
